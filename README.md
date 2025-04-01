@@ -1,6 +1,6 @@
 # 🇵🇱 Witam! 🎨💻
 
- ##### Jestem 💻**Frontend Developerem**💻, który z pasją zamienia kreatywne pomysły w działające aplikacje. Moja przygoda z programowaniem zaczęła się w liceum, gdzie odkryłem swoją pasję do technologii, ucząc się C++. Wiem, jak ważne są solidne podstawy, dlatego poznałem również framework Boost. Jednak to frontend i tworzenie stron internetowych stały się moją największą pasją, ponieważ pozwalają mi na ciągły rozwój i twórczość.Uwielbiam czysty kod, elegancki design i technologie, które sprawiają, że internet jest szybszy, piękniejszy i bardziej interaktywny.
+ #### Jestem 💻**Frontend Developerem**💻, który z pasją zamienia kreatywne pomysły w działające aplikacje. Moja przygoda z programowaniem zaczęła się w liceum, gdzie odkryłem swoją pasję do technologii, ucząc się C++. Wiem, jak ważne są solidne podstawy, dlatego poznałem również framework Boost. Jednak to frontend i tworzenie stron internetowych stały się moją największą pasją, ponieważ pozwalają mi na ciągły rozwój i twórczość.Uwielbiam czysty kod, elegancki design i technologie, które sprawiają, że internet jest szybszy, piękniejszy i bardziej interaktywny.
 
 ## 🔹 Specjalizuję się w:
 
@@ -38,7 +38,7 @@
 
 # 🇬🇧 Welcome! 
 
- ##### I’m a **Frontend Developer** passionate about turning creative ideas into working applications. My programming journey started in high school, where I discovered my passion for technology by learning C++. With solid foundations in the language and the Boost framework, I soon realized that frontend development and building websites was my true calling, allowing me to constantly innovate and create. I love clean code, elegant design, and technologies that make the web faster, prettier, and more interactive.
+ #### I’m a **Frontend Developer** passionate about turning creative ideas into working applications. My programming journey started in high school, where I discovered my passion for technology by learning C++. With solid foundations in the language and the Boost framework, I soon realized that frontend development and building websites was my true calling, allowing me to constantly innovate and create. I love clean code, elegant design, and technologies that make the web faster, prettier, and more interactive.
 
 ## 🔹 I specialize in:
 
