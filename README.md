@@ -1,8 +1,8 @@
-🇵🇱 Witam! 🎨💻
+###🇵🇱 Witam! 🎨💻
 
   Jestem 💻**Frontend Developerem**💻, który z pasją zamienia kreatywne pomysły w działające aplikacje. Moja przygoda z programowaniem zaczęła się w liceum, gdzie odkryłem swoją pasję do technologii, ucząc się C++. Wiem, jak ważne są solidne podstawy, dlatego poznałem również framework Boost. Jednak to frontend i tworzenie stron internetowych stały się moją największą pasją, ponieważ pozwalają mi na ciągły rozwój i twórczość.Uwielbiam czysty kod, elegancki design i technologie, które sprawiają, że internet jest szybszy, piękniejszy i bardziej interaktywny.
 
-🔹 Specjalizuję się w:
+#🔹 Specjalizuję się w:
 
 ✅ JavaScript & TypeScript – dynamiczne aplikacje webowe
 
@@ -16,7 +16,7 @@
 
 ✅ Uczę się Dockera i Kubernetesa – poznaję technologie konteneryzacji i orkiestracji
 
-🛠 Jak pracuję?
+#🛠 Jak pracuję?
 
 💡 Kreatywnie – szukam unikalnych rozwiązań
 
@@ -24,11 +24,11 @@
 
 🎯 Perfekcyjnie – dbam o szczegóły i wydajność
 
-🌟 Moje projekty:
+#🌟 Moje projekty:
 
 🔹 🎓 Platforma Kursów – strona, która będzie moim projektem inżynierskim. Jest to platforma do tworzenia i sprzedaży kursów online, przypominająca Udemy, którą tworzę z wykorzystaniem React i Node.js.
 
-📫 Chcesz pogadać o kodzie?
+#📫 Chcesz pogadać o kodzie?
 
 📧 E-mail: lukasz.krawczyk@example.com
 
