@@ -4,25 +4,25 @@
 
 ## 🔹 Specjalizuję się w:
 
-✅ JavaScript & TypeScript – dynamiczne aplikacje webowe
+✅ **JavaScript & TypeScript** – dynamiczne aplikacje webowe
 
-✅ React & Next.js – skalowalne i wydajne interfejsy
+✅ **React & Next.js** – skalowalne i wydajne interfejsy
 
-✅ Tailwind CSS & Styled Components – nowoczesne UI/UX
+✅ **Tailwind CSS & Styled Components** – nowoczesne UI/UX
 
-✅ API & Firebase – backend integracje
+✅ **API & Firebase** – backend integracje
 
-✅ Podstawy backendu – znam podstawy Node.js, Express oraz baz danych
+✅ **Podstawy backendu** – znam podstawy Node.js, Express oraz baz danych
 
-✅ Uczę się Dockera i Kubernetesa – poznaję technologie konteneryzacji i orkiestracji
+✅ **Uczę się Dockera i Kubernetesa** – poznaję technologie konteneryzacji i orkiestracji
 
 ## 🛠 Jak pracuję?
 
-💡 Kreatywnie – szukam unikalnych rozwiązań
+💡 **Kreatywnie** – szukam unikalnych rozwiązań
 
-🚀 Zwinnie – uwielbiam szybkie iteracje i feedback
+🚀 **Zwinnie** – uwielbiam szybkie iteracje i feedback
 
-🎯 Perfekcyjnie – dbam o szczegóły i wydajność
+🎯 **Perfekcyjnie** – dbam o szczegóły i wydajność
 
 ## 🌟 Moje projekty:
 
@@ -30,11 +30,11 @@
 
 ## 📫 Chcesz pogadać o kodzie?
 
-📧 E-mail: lukasz.krawczyk@example.com
+📧 **E-mail**: lukasz.krawczyk@example.com
 
-🌍 Portfolio: lukaszkrawczyk.dev
+🌍 **Portfolio:** lukaszkrawczyk.dev
 
-💼 LinkedIn: linkedin.com/in/lukaszkrawczyk
+💼 **LinkedIn:** linkedin.com/in/lukaszkrawczyk
 
 # 🇬🇧 Welcome! 
 
@@ -42,25 +42,25 @@
 
 ## 🔹 I specialize in:
 
-✅ JavaScript & TypeScript – building dynamic web apps
+✅ **JavaScript & TypeScript **– building dynamic web apps
 
-✅ React & Next.js – scalable and high-performance interfaces
+✅ **React & Next.js** – scalable and high-performance interfaces
 
-✅ Tailwind CSS & Styled Components – sleek UI/UX design
+✅ **Tailwind CSS & Styled Components** – sleek UI/UX design
 
-✅ API & Firebase – backend integrations
+✅ **API & Firebase** – backend integrations
 
-✅ Basic backend – familiar with Node.js, Express, and databases
+✅ B**asic backend** – familiar with Node.js, Express, and databases
 
-✅ Learning Docker & Kubernetes – exploring containerization and orchestration technologies
+✅ **Learning Docker & Kubernetes** – exploring containerization and orchestration technologies
 
 ## 🛠 How do I work?
 
-💡 Creatively – finding unique solutions
+💡 **Creatively** – finding unique solutions
 
-🚀 Agile – fast iterations & feedback loops
+🚀 **Agile** – fast iterations & feedback loops
 
-🎯 Perfectionist – I care about details & performance
+🎯 P**erfectionist** – I care about details & performance
 
 ## 🌟 My projects:
 
@@ -68,9 +68,9 @@
 
 ## 📫 Let’s talk code!
 
-📧 E-mail: lukasz.krawczyk@example.com
+📧 **E-mail:** lukasz.krawczyk@example.com
 
-🌍 Portfolio: lukaszkrawczyk.dev
+🌍 **Portfolio:** lukaszkrawczyk.dev
 
-💼 LinkedIn: linkedin.com/in/lukaszkrawczyk
+💼 **LinkedIn:** linkedin.com/in/lukaszkrawczyk
   
