@@ -34,7 +34,7 @@
 
 🌍 **Portfolio:** lukaszkrawczyk.dev
 
-💼 **LinkedIn:** linkedin.com/in/lukaszkrawczyk
+💼 **LinkedIn:** in/łukasz-krawczyk-794781336
 
 # 🇬🇧 Welcome! 
 
@@ -72,5 +72,5 @@
 
 🌍 **Portfolio:** lukaszkrawczyk.dev
 
-💼 **LinkedIn:** linkedin.com/in/lukaszkrawczyk
+💼 **LinkedIn:** in/łukasz-krawczyk-794781336
   
