@@ -30,7 +30,7 @@
 
 ## 📫 Chcesz pogadać o kodzie?
 
-📧 **E-mail**: lukasz.krawczyk@example.com
+📧 **E-mail**: lukaszkrawczyk.dev@gmail.com
 
 🌍 **Portfolio:** lukaszkrawczyk.dev
 
@@ -42,7 +42,7 @@
 
 ## 🔹 I specialize in:
 
-✅ **JavaScript & TypeScript **– building dynamic web apps
+✅ **JavaScript & TypeScript**– building dynamic web apps
 
 ✅ **React & Next.js** – scalable and high-performance interfaces
 
@@ -68,7 +68,7 @@
 
 ## 📫 Let’s talk code!
 
-📧 **E-mail:** lukasz.krawczyk@example.com
+📧 **E-mail:** lukaszkrawczyk.dev@gmail.com
 
 🌍 **Portfolio:** lukaszkrawczyk.dev
 
